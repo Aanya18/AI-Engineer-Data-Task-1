@@ -1,0 +1,50 @@
+[
+  {
+    "input_domain": "bucknell.edu",
+    "university_name": "Bucknell University",
+    "overview": null,
+    "contact": {
+      "address": null,
+      "phone": null,
+      "email": null,
+      "website": "https://bucknell.edu/"
+    },
+    "admissions_pages": [],
+    "tuition_pages": [],
+    "tuition_items": [],
+    "admission_deadlines": [],
+    "source_pages": []
+  },
+  {
+    "input_domain": "udc.edu",
+    "university_name": "University of the District of Columbia",
+    "overview": null,
+    "contact": {
+      "address": null,
+      "phone": null,
+      "email": null,
+      "website": "https://udc.edu/"
+    },
+    "admissions_pages": [],
+    "tuition_pages": [],
+    "tuition_items": [],
+    "admission_deadlines": [],
+    "source_pages": []
+  },
+  {
+    "input_domain": "salisbury.edu",
+    "university_name": "Salisbury University",
+    "overview": null,
+    "contact": {
+      "address": null,
+      "phone": null,
+      "email": null,
+      "website": "https://salisbury.edu/"
+    },
+    "admissions_pages": [],
+    "tuition_pages": [],
+    "tuition_items": [],
+    "admission_deadlines": [],
+    "source_pages": []
+  }
+]
